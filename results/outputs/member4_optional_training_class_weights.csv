@@ -1,0 +1,5 @@
+label,training_images,optional_class_weight
+Blight,686,0.9147230320699709
+Common_Rust,783,0.801404853128991
+Gray_Leaf_Spot,344,1.8241279069767442
+Healthy,697,0.900286944045911

@@ -1,0 +1,5 @@
+label,original_size,tensor_shape,dtype,minimum,maximum
+Blight,"(1000, 585)","(224, 224, 3)",float32,11.0,255.0
+Common_Rust,"(185, 500)","(224, 224, 3)",float32,0.0,255.0
+Gray_Leaf_Spot,"(525, 395)","(224, 224, 3)",float32,7.0,225.0
+Healthy,"(256, 256)","(224, 224, 3)",float32,38.0,255.0

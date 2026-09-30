@@ -1,0 +1,58 @@
+[
+  {
+    "notebook": "IT25102830_Training_Only_Augmentation.ipynb",
+    "status": "executed",
+    "code_cells": 5,
+    "output_blocks": 8,
+    "embedded_png_outputs": 1,
+    "execution": "IPython in-process; all code cells in order"
+  },
+  {
+    "notebook": "IT25103750_Image_Integrity_Cleaning.ipynb",
+    "status": "executed",
+    "code_cells": 5,
+    "output_blocks": 9,
+    "embedded_png_outputs": 1,
+    "execution": "IPython in-process; all code cells in order"
+  },
+  {
+    "notebook": "IT25103751_Duplicate_Removal_and_Splits.ipynb",
+    "status": "executed",
+    "code_cells": 6,
+    "output_blocks": 9,
+    "embedded_png_outputs": 1,
+    "execution": "IPython in-process; all code cells in order"
+  },
+  {
+    "notebook": "IT25103752_RGB_Conversion_and_Resizing.ipynb",
+    "status": "executed",
+    "code_cells": 5,
+    "output_blocks": 7,
+    "embedded_png_outputs": 1,
+    "execution": "IPython in-process; all code cells in order"
+  },
+  {
+    "notebook": "IT25103753_Label_Encoding_and_Class_Balance.ipynb",
+    "status": "executed",
+    "code_cells": 5,
+    "output_blocks": 9,
+    "embedded_png_outputs": 1,
+    "execution": "IPython in-process; all code cells in order"
+  },
+  {
+    "notebook": "IT25103754_Model_Specific_Normalization.ipynb",
+    "status": "executed",
+    "code_cells": 6,
+    "output_blocks": 9,
+    "embedded_png_outputs": 1,
+    "execution": "IPython in-process; all code cells in order"
+  },
+  {
+    "notebook": "group_pipeline.ipynb",
+    "status": "executed",
+    "code_cells": 12,
+    "output_blocks": 21,
+    "embedded_png_outputs": 6,
+    "execution": "IPython in-process; all code cells in order"
+  }
+]

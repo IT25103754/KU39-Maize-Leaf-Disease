@@ -1,0 +1,15 @@
+MaizeLens - ඔයාගේ maize leaf AI website එක
+
+1. ZIP එක Extract All කරන්න.
+2. Python 3.12 (64-bit) install කරන්න. Python Launcher එකත් තෝරන්න.
+3. SETUP_WINDOWS.bat double-click කරන්න. පළමු වතාවට විතරයි; Internet අවශ්‍යයි.
+4. Setup complete වුණාම START_WEBSITE.bat double-click කරන්න.
+5. Model එක load වුණාම browser එක open වෙනවා.
+   නැත්නම් http://127.0.0.1:5000 ට යන්න.
+6. Leaf photo එක upload කර Analyze leaf ඔබන්න.
+
+Command window එක open තියාගන්න. නවත්වන්න Ctrl+C.
+ඊළඟ වතාවේ START_WEBSITE.bat විතරක් run කරන්න.
+Model එක ZIP එකේ ඇතුළත්. Dataset / Colab / retraining අවශ්‍ය නැහැ.
+මේක laptop එකේ run වෙන local website එකක්; public internet link එකක් නෙවෙයි.
+Error එකක් ආවොත් command window එකේ screenshot එක එවන්න.

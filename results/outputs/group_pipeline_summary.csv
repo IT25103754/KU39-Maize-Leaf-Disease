@@ -1,0 +1,7 @@
+stage,images
+Raw image entries,4188
+Valid decoded/known-label images,4188
+Invalid/unknown exclusions,0
+Exact pixel duplicate exclusions,0
+Conflicting-label exclusions,4
+Retained images,4184

@@ -1,0 +1,4 @@
+contract,minimum,maximum,mean,dtype
+EfficientNetB0 saved model,11.0,255.0,133.29791259765625,float32
+Custom CNN option,0.04313725605607033,1.0,0.5227368474006653,float32
+MobileNetV2 option,-0.9137254953384399,1.0,0.04547378420829773,float32

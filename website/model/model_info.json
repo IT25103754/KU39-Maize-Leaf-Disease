@@ -1,0 +1,13 @@
+{
+  "model": "efficientnet_b0",
+  "sha256": "c94f50ce153047189e8ef756dc87aed7ec69f17a48ecbfd8e7ab5ec0273e1571",
+  "classes": [
+    "Blight",
+    "Common_Rust",
+    "Gray_Leaf_Spot",
+    "Healthy"
+  ],
+  "test_accuracy": 0.9354066985645934,
+  "test_macro_f1": 0.9131736939923956,
+  "test_images": 836
+}

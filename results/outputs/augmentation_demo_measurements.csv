@@ -1,0 +1,13 @@
+label,variant,mean_brightness,source_split,source_path
+Blight,Original,133.2979047087585,train,archive/data/Blight/Corn_Blight (1).jpeg
+Blight,Horizontal flip,133.2979047087585,train,archive/data/Blight/Corn_Blight (1).jpeg
+Blight,Flip + rotation + brightness,133.87280107355443,train,archive/data/Blight/Corn_Blight (1).jpeg
+Common_Rust,Original,134.24976084183675,train,archive/data/Common_Rust/Corn_Common_Rust (1).jpg
+Common_Rust,Horizontal flip,134.24976084183675,train,archive/data/Common_Rust/Corn_Common_Rust (1).jpg
+Common_Rust,Flip + rotation + brightness,135.5129942602041,train,archive/data/Common_Rust/Corn_Common_Rust (1).jpg
+Gray_Leaf_Spot,Original,123.44432929421768,train,archive/data/Gray_Leaf_Spot/Corn_Gray_Spot (10).jpg
+Gray_Leaf_Spot,Horizontal flip,123.44432929421768,train,archive/data/Gray_Leaf_Spot/Corn_Gray_Spot (10).jpg
+Gray_Leaf_Spot,Flip + rotation + brightness,118.06654575892857,train,archive/data/Gray_Leaf_Spot/Corn_Gray_Spot (10).jpg
+Healthy,Original,161.2428584715136,train,archive/data/Healthy/Corn_Health (10).jpg
+Healthy,Horizontal flip,161.2428584715136,train,archive/data/Healthy/Corn_Health (10).jpg
+Healthy,Flip + rotation + brightness,150.42911617772108,train,archive/data/Healthy/Corn_Health (10).jpg

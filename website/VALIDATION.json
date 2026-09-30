@@ -1,0 +1,41 @@
+{
+  "backend_tests": "5 passed, using actual model",
+  "browser_tests": "Passed: upload, real prediction, 4 scores, JSON download, reset, mobile overflow, no JavaScript errors",
+  "visual_review": "Desktop result and mobile empty state reviewed",
+  "test_platform": "Linux x86_64 / Python 3.12 / TensorFlow CPU 2.20.0 / Keras 3.13.2",
+  "windows_batch_files": "Provided; not executed on Windows",
+  "saved_prediction_parity": [
+    {
+      "file": "archive/data/Blight/Corn_Blight (1).jpeg",
+      "prediction": "Blight",
+      "max_difference": 5.48947653175938e-09
+    },
+    {
+      "file": "archive/data/Common_Rust/Corn_Common_Rust (1018).JPG",
+      "prediction": "Common Rust",
+      "max_difference": 1.264610290929724e-07
+    },
+    {
+      "file": "archive/data/Gray_Leaf_Spot/Corn_Gray_Spot (1).jpg",
+      "prediction": "Healthy",
+      "max_difference": 5.828430176268995e-07
+    },
+    {
+      "file": "archive/data/Healthy/Corn_Health (1005).jpg",
+      "prediction": "Healthy",
+      "max_difference": 2.662734988057025e-08
+    }
+  ],
+  "note": "Parity reproduces original predictions including original errors. No retraining or new accuracy claims.",
+  "sharing_update": {
+    "backend_tests": "5 passed again with actual model",
+    "startup": "MAIZE_HOST=0.0.0.0, MAIZE_PORT=7860: real server health passed",
+    "not_executed": [
+      "Windows BAT files",
+      "real second Wi-Fi device",
+      "Cloudflare public tunnel",
+      "hosted Docker build"
+    ],
+    "model_sha256_unchanged": true
+  }
+}
